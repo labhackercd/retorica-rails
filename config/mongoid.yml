@@ -26,7 +26,7 @@ production:
      # replica set connection setup.
      # Use environment variables or a config file to keep your
      # credentials safe.
-     uri: 'mongodb://heroku_vlf3xwln:n543j3l40dq32tk0886eaed8it@ds041583.mongolab.com:41583/heroku_vlf3xwln'
+     uri: 'mongodb://heroku_tvh933pm:j9jaoclc7i33ujp97dvrk9junf@ds041593.mongolab.com:41593/heroku_tvh933pm'
 
      options:
        # The default consistency is :eventual, which reads from
