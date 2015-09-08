@@ -12,7 +12,7 @@ class DashboardsController < ApplicationController
   end
 
   def first
-    first_url = url_for Dashboard.first
+    first_url = url_for Dashboard.last
     return redirect_to first_url
   end
 
